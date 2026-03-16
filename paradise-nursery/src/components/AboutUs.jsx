@@ -1,11 +1,14 @@
-export default function AboutUs() {
+function AboutUs() {
   return (
-    <div className="page">
+    <div>
       <h1>About Paradise Nursery</h1>
       <p>
-        Paradise Nursery provides high-quality indoor plants to bring nature
-        into your home. Our plants are healthy, affordable, and easy to maintain.
+        Paradise Nursery is dedicated to providing healthy, beautiful,
+        and affordable houseplants. Our mission is to bring nature
+        closer to your home while promoting sustainable living.
       </p>
     </div>
   );
 }
+
+export default AboutUs;

@@ -1,8 +1,9 @@
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: url("https://images.unsplash.com/photo-1501004318641-b39e6451bec6")
-    no-repeat center center/cover;
+.landing {
+  background-image: url("https://images.unsplash.com/photo-1501004318641-b39e6451bec6");
+  background-size: cover;
+  height: 100vh;
+  color: white;
+  text-align: center;
 }
 
 .nav {
