@@ -1,4 +1,4 @@
-# Paradise Nursery 🌿
+# "Paradise Nursery"
 
 Paradise Nursery is an online plant shopping application where users can browse plants, add them to cart, and manage their shopping cart.
 
